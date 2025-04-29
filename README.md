@@ -58,7 +58,3 @@ The project includes a testng.xml file that configures:
 - Running all tests
 - Running only positive tests
 - Running only negative tests
-
-## Github Repository
-
-The code for this project is available at [GitHub](https://github.com/yourusername/TestNGActivity).
