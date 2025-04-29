@@ -6,4 +6,15 @@
             <class name="com.banking.BankAccountTest"/>
         </classes>
     </test>
+    
+    <!-- <test name="Negative Tests">
+        <groups>
+            <run>
+                <include name="negative-tests"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.banking.BankAccountTest"/>
+        </classes>
+    </test>
 </suite> 
